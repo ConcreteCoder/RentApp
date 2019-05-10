@@ -1,0 +1,43 @@
+2019-05-04 18:50:48,693 INFO MonitoringLogger - Setup filter starts
+2019-05-04 18:52:01,414 INFO MonitoringLogger - Setup filter starts
+2019-05-04 18:52:22,262 INFO MonitoringLogger - Setup filter starts
+2019-05-04 18:52:48,136 INFO MonitoringLogger - Setup filter starts
+2019-05-04 18:58:03,298 INFO MonitoringLogger - Setup filter starts
+2019-05-04 19:01:45,939 INFO MonitoringLogger - Setup filter starts
+2019-05-04 19:01:56,749 INFO MonitoringLogger - Setup filter starts
+2019-05-04 19:03:05,239 INFO MonitoringLogger - Setup filter starts
+2019-05-04 19:17:20,654 INFO MonitoringLogger - Setup filter starts
+2019-05-04 19:18:25,329 INFO MonitoringLogger - Setup filter starts
+2019-05-04 19:44:43,147 INFO MonitoringLogger - Setup filter starts
+2019-05-04 19:44:57,789 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-04 19:44:58,132 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-04 19:45:00,852 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-04 19:45:00,913 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-04 19:47:05,482 INFO MonitoringLogger - Setup filter starts
+2019-05-04 19:47:19,339 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-04 19:47:19,624 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-04 19:47:20,744 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-04 19:47:20,762 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-04 19:47:23,792 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-04 19:47:23,821 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-04 19:50:03,876 INFO MonitoringLogger - Setup filter starts
+2019-05-04 19:50:14,844 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-04 19:50:14,876 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-04 19:50:17,225 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-04 19:50:17,402 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-04 19:50:45,305 INFO MonitoringLogger - Setup filter starts
+2019-05-04 19:50:59,340 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-04 19:50:59,363 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-04 19:51:00,555 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-04 19:51:00,577 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-04 19:51:05,449 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-04 19:51:05,579 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-04 19:52:20,292 INFO MonitoringLogger - Setup filter starts
+2019-05-04 19:52:37,458 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-04 19:52:37,487 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-04 19:52:38,544 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-04 19:52:38,578 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-04 19:52:39,812 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-04 19:52:39,870 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-04 19:52:42,705 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-04 19:52:42,732 INFO MonitoringLogger - Cart controller Get request ends:-

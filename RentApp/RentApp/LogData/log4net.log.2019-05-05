@@ -1,0 +1,276 @@
+2019-05-05 02:04:53,673 INFO MonitoringLogger - Setup filter starts
+2019-05-05 02:04:54,699 ERROR MonitoringLogger - Exception at Index:- <br/>The requested service, 'http://localhost:50590/InventoryService.svc' could not be activated. See the server's diagnostic trace logs for more information.; 
+2019-05-05 02:07:46,059 INFO MonitoringLogger - Setup filter starts
+2019-05-05 04:16:45,422 INFO MonitoringLogger - Setup filter starts
+2019-05-05 04:43:15,243 INFO MonitoringLogger - Setup filter starts
+2019-05-05 04:43:35,707 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 04:43:36,520 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 04:43:41,804 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 04:43:41,940 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 04:43:43,612 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 04:43:43,757 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 04:43:47,672 INFO MonitoringLogger - Value cannot be null.
+Parameter name: source; 
+2019-05-05 04:44:11,356 INFO MonitoringLogger - Value cannot be null.
+Parameter name: source; 
+2019-05-05 04:44:20,827 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 04:44:20,877 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 04:44:25,826 INFO MonitoringLogger - Value cannot be null.
+Parameter name: source; 
+2019-05-05 04:44:48,848 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 04:44:48,997 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 04:46:32,098 INFO MonitoringLogger - Setup filter starts
+2019-05-05 04:46:56,652 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 04:46:56,902 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 04:46:58,755 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 04:46:58,802 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 04:47:00,613 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 04:47:00,787 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 04:47:02,330 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 04:47:02,594 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 04:48:41,628 INFO MonitoringLogger - Setup filter starts
+2019-05-05 04:48:51,240 INFO MonitoringLogger - Setup filter starts
+2019-05-05 04:49:03,049 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 04:49:03,285 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 04:49:04,606 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 04:49:04,871 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 04:50:04,102 INFO MonitoringLogger - Value cannot be null.
+Parameter name: source; 
+2019-05-05 04:50:55,461 INFO MonitoringLogger - Value cannot be null.
+Parameter name: source; 
+2019-05-05 04:52:34,374 INFO MonitoringLogger - Setup filter starts
+2019-05-05 04:52:56,000 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 04:52:56,863 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 04:52:57,857 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 04:52:57,899 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 04:53:00,343 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 04:53:00,565 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 05:06:19,939 INFO MonitoringLogger - Setup filter starts
+2019-05-05 05:06:45,575 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 05:06:46,242 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 05:06:48,659 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 05:06:48,713 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 05:06:50,488 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 05:06:50,597 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 05:51:29,059 INFO MonitoringLogger - Setup filter starts
+2019-05-05 05:51:45,212 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 05:51:45,566 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 05:51:46,752 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 05:51:46,771 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 05:51:49,424 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 05:51:49,492 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 05:51:51,679 INFO MonitoringLogger - The server was unable to process the request due to an internal error.  For more information about the error, either turn on IncludeExceptionDetailInFaults (either from ServiceBehaviorAttribute or from the <serviceDebug> configuration behavior) on the server in order to send the exception information back to the client, or turn on tracing as per the Microsoft .NET Framework SDK documentation and inspect the server trace logs.; 
+2019-05-05 05:53:07,235 INFO MonitoringLogger - The server was unable to process the request due to an internal error.  For more information about the error, either turn on IncludeExceptionDetailInFaults (either from ServiceBehaviorAttribute or from the <serviceDebug> configuration behavior) on the server in order to send the exception information back to the client, or turn on tracing as per the Microsoft .NET Framework SDK documentation and inspect the server trace logs.; 
+2019-05-05 05:53:14,829 INFO MonitoringLogger - The server was unable to process the request due to an internal error.  For more information about the error, either turn on IncludeExceptionDetailInFaults (either from ServiceBehaviorAttribute or from the <serviceDebug> configuration behavior) on the server in order to send the exception information back to the client, or turn on tracing as per the Microsoft .NET Framework SDK documentation and inspect the server trace logs.; 
+2019-05-05 05:53:18,892 INFO MonitoringLogger - Setup filter starts
+2019-05-05 05:53:26,113 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 05:53:26,133 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 05:53:27,262 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 05:53:27,277 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 05:53:41,016 INFO MonitoringLogger - Setup filter starts
+2019-05-05 05:53:51,641 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 05:53:51,834 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 05:53:53,520 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 05:53:53,539 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 05:53:55,320 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 05:53:55,409 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 05:55:32,045 INFO MonitoringLogger - The HTTP request to 'http://localhost:50590/InventoryService.svc' has exceeded the allotted timeout of 00:01:00. The time allotted to this operation may have been a portion of a longer timeout.; System.Net.WebException: The request was aborted: The request was canceled.
+   at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelAsyncRequest.CompleteGetResponse(IAsyncResult result)
+2019-05-05 05:55:38,996 INFO MonitoringLogger - Setup filter starts
+2019-05-05 05:56:46,267 INFO MonitoringLogger - Setup filter starts
+2019-05-05 05:56:59,199 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 05:56:59,503 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 05:57:00,967 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 05:57:00,996 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 05:57:02,814 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 05:57:02,875 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 05:57:38,780 INFO MonitoringLogger - The server was unable to process the request due to an internal error.  For more information about the error, either turn on IncludeExceptionDetailInFaults (either from ServiceBehaviorAttribute or from the <serviceDebug> configuration behavior) on the server in order to send the exception information back to the client, or turn on tracing as per the Microsoft .NET Framework SDK documentation and inspect the server trace logs.; 
+2019-05-05 05:57:54,263 INFO MonitoringLogger - Setup filter starts
+2019-05-05 05:58:03,337 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 05:58:03,432 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 05:58:04,480 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 05:58:04,609 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 05:58:36,792 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 05:58:36,920 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 05:59:33,315 INFO MonitoringLogger - The server was unable to process the request due to an internal error.  For more information about the error, either turn on IncludeExceptionDetailInFaults (either from ServiceBehaviorAttribute or from the <serviceDebug> configuration behavior) on the server in order to send the exception information back to the client, or turn on tracing as per the Microsoft .NET Framework SDK documentation and inspect the server trace logs.; 
+2019-05-05 06:00:03,872 INFO MonitoringLogger - Setup filter starts
+2019-05-05 06:00:23,325 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 06:00:23,373 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 06:00:24,679 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 06:00:24,707 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 06:00:26,170 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 06:00:26,211 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 06:01:02,464 INFO MonitoringLogger - The server was unable to process the request due to an internal error.  For more information about the error, either turn on IncludeExceptionDetailInFaults (either from ServiceBehaviorAttribute or from the <serviceDebug> configuration behavior) on the server in order to send the exception information back to the client, or turn on tracing as per the Microsoft .NET Framework SDK documentation and inspect the server trace logs.; 
+2019-05-05 06:01:49,869 INFO MonitoringLogger - Setup filter starts
+2019-05-05 06:02:05,713 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 06:02:06,060 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 06:02:06,934 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 06:02:06,985 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 06:02:07,735 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 06:02:07,817 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 06:02:09,808 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 06:02:09,863 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 08:52:25,402 INFO MonitoringLogger - Setup filter starts
+2019-05-05 08:52:26,731 ERROR MonitoringLogger - Exception at Index:- <br/>The requested service, 'http://localhost:50590/InventoryService.svc' could not be activated. See the server's diagnostic trace logs for more information.; 
+2019-05-05 09:14:07,257 INFO MonitoringLogger - Setup filter starts
+2019-05-05 09:14:08,222 ERROR MonitoringLogger - Exception at Index:- <br/>The requested service, 'http://localhost:50590/InventoryService.svc' could not be activated. See the server's diagnostic trace logs for more information.; 
+2019-05-05 09:14:38,872 INFO MonitoringLogger - Setup filter starts
+2019-05-05 09:14:58,155 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 09:14:58,711 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 09:15:02,735 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 09:15:02,804 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 09:15:04,571 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 09:15:04,655 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 09:37:09,913 INFO MonitoringLogger - Setup filter starts
+2019-05-05 09:51:04,899 INFO MonitoringLogger - Setup filter starts
+2019-05-05 09:56:08,017 INFO MonitoringLogger - Setup filter starts
+2019-05-05 10:15:45,700 INFO MonitoringLogger - Setup filter starts
+2019-05-05 10:16:18,780 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 10:16:19,377 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 10:16:20,815 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 10:16:20,867 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 10:16:22,402 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 10:16:22,428 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 10:16:24,454 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 10:16:24,744 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 10:27:49,979 INFO MonitoringLogger - Setup filter starts
+2019-05-05 10:28:06,631 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 10:28:06,854 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 10:28:10,686 INFO MonitoringLogger - Setup filter starts
+2019-05-05 10:28:17,721 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 10:28:17,785 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 10:28:25,047 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 10:28:25,079 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 10:30:02,711 INFO MonitoringLogger - Setup filter starts
+2019-05-05 10:31:19,118 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 10:31:19,168 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 10:31:21,438 INFO MonitoringLogger - Setup filter starts
+2019-05-05 10:31:35,799 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 10:31:35,841 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 10:33:25,953 INFO MonitoringLogger - Setup filter starts
+2019-05-05 10:33:49,751 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 10:33:49,935 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 10:33:52,256 INFO MonitoringLogger - Setup filter starts
+2019-05-05 10:36:22,365 INFO MonitoringLogger - Setup filter starts
+2019-05-05 10:36:46,892 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 10:36:47,078 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 10:36:51,713 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 10:36:51,745 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 10:36:54,628 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 10:36:54,803 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 10:37:19,610 INFO MonitoringLogger - Setup filter starts
+2019-05-05 10:37:37,446 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 10:37:37,651 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 10:37:39,835 INFO MonitoringLogger - Setup filter starts
+2019-05-05 10:40:28,363 INFO MonitoringLogger - Setup filter starts
+2019-05-05 10:40:49,533 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 10:40:49,764 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 10:40:50,727 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 10:40:50,763 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 10:40:57,985 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 10:40:58,103 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 10:41:00,828 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 10:41:00,893 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 10:41:02,596 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 10:41:02,653 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 10:41:04,366 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 10:41:04,485 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 10:41:11,098 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 10:41:11,162 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 10:41:16,782 INFO MonitoringLogger - Setup filter starts
+2019-05-05 10:41:29,464 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 10:41:29,596 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 10:44:40,619 INFO MonitoringLogger - Setup filter starts
+2019-05-05 10:44:53,716 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 10:44:53,956 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 10:45:18,345 INFO MonitoringLogger - Setup filter starts
+2019-05-05 10:49:19,842 INFO MonitoringLogger - Setup filter starts
+2019-05-05 10:57:09,853 INFO MonitoringLogger - Setup filter starts
+2019-05-05 10:57:35,649 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 10:57:35,730 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 10:57:38,083 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 10:57:38,108 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 10:57:41,487 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 10:57:41,502 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 10:57:42,931 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 10:57:42,947 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 10:57:45,998 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 10:57:46,037 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 14:32:21,194 INFO MonitoringLogger - Setup filter starts
+2019-05-05 14:32:55,434 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 14:32:55,773 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 14:32:57,974 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 14:32:57,995 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 14:32:59,206 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 14:32:59,247 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 14:33:03,222 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 14:33:03,276 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 14:33:11,149 INFO MonitoringLogger - Setup filter starts
+2019-05-05 14:41:03,304 INFO MonitoringLogger - Setup filter starts
+2019-05-05 14:52:47,614 INFO MonitoringLogger - Setup filter starts
+2019-05-05 14:53:08,331 INFO MonitoringLogger - Setup filter starts
+2019-05-05 15:35:00,535 INFO MonitoringLogger - Setup filter starts
+2019-05-05 15:37:58,526 INFO MonitoringLogger - Setup filter starts
+2019-05-05 15:38:10,664 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 15:38:11,094 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 15:38:12,160 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 15:38:12,196 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 15:38:14,125 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 15:38:14,196 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 15:45:57,368 INFO MonitoringLogger - Setup filter starts
+2019-05-05 15:45:59,014 ERROR MonitoringLogger - Exception at Index:- <br/>The server was unable to process the request due to an internal error.  For more information about the error, either turn on IncludeExceptionDetailInFaults (either from ServiceBehaviorAttribute or from the <serviceDebug> configuration behavior) on the server in order to send the exception information back to the client, or turn on tracing as per the Microsoft .NET Framework SDK documentation and inspect the server trace logs.; 
+2019-05-05 15:46:28,783 INFO MonitoringLogger - Setup filter starts
+2019-05-05 15:46:30,430 ERROR MonitoringLogger - Exception at Index:- <br/>The server was unable to process the request due to an internal error.  For more information about the error, either turn on IncludeExceptionDetailInFaults (either from ServiceBehaviorAttribute or from the <serviceDebug> configuration behavior) on the server in order to send the exception information back to the client, or turn on tracing as per the Microsoft .NET Framework SDK documentation and inspect the server trace logs.; 
+2019-05-05 15:47:19,192 INFO MonitoringLogger - Setup filter starts
+2019-05-05 15:47:29,413 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 15:47:29,442 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 15:47:30,731 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 15:47:30,766 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 15:47:32,387 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 15:47:32,426 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 15:54:21,545 INFO MonitoringLogger - Setup filter starts
+2019-05-05 22:35:41,269 INFO MonitoringLogger - Setup filter starts
+2019-05-05 22:43:18,729 INFO MonitoringLogger - Setup filter starts
+2019-05-05 23:08:48,588 INFO MonitoringLogger - Setup filter starts
+2019-05-05 23:09:04,646 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 23:09:05,106 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 23:09:06,193 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 23:09:06,241 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 23:09:07,949 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 23:09:08,046 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 23:46:28,350 INFO MonitoringLogger - Setup filter starts
+2019-05-05 23:46:44,448 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 23:46:44,862 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 23:46:46,179 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 23:46:46,207 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 23:46:48,060 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 23:46:48,120 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 23:50:18,089 INFO MonitoringLogger - Setup filter starts
+2019-05-05 23:50:27,943 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 23:50:27,981 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 23:50:29,374 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 23:50:29,421 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 23:53:32,136 INFO MonitoringLogger - Setup filter starts
+2019-05-05 23:53:47,939 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 23:53:47,975 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 23:53:49,108 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 23:53:49,147 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 23:53:50,510 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 23:53:50,536 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 23:53:51,947 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 23:53:51,977 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 23:56:06,776 INFO MonitoringLogger - Setup filter starts
+2019-05-05 23:56:18,193 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 23:56:18,229 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 23:56:19,601 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 23:56:19,624 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 23:56:20,914 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 23:56:20,938 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-05 23:57:31,692 INFO MonitoringLogger - Setup filter starts
+2019-05-05 23:57:42,360 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 23:57:42,461 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 23:57:46,112 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-05 23:57:46,149 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-05 23:57:52,104 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-05 23:57:52,133 INFO MonitoringLogger - Cart controller Get request ends:-

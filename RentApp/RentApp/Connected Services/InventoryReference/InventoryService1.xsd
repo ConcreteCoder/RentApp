@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/System" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/System" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:50590/InventoryService.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/EFLibrary.Models" />
+  <xs:complexType name="TupleOfArrayOfModel_Inventoryintg3pnGo87">
+    <xs:annotation>
+      <xs:appinfo>
+        <GenericType Name="TupleOf{0}{1}{#}" Namespace="http://schemas.datacontract.org/2004/07/System" xmlns="http://schemas.microsoft.com/2003/10/Serialization/">
+          <GenericParameter Name="ArrayOfModel_Inventory" Namespace="http://schemas.datacontract.org/2004/07/EFLibrary.Models" />
+          <GenericParameter Name="int" Namespace="http://www.w3.org/2001/XMLSchema" />
+        </GenericType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/EFLibrary.Models" name="m_Item1" nillable="true" type="q1:ArrayOfModel_Inventory" />
+      <xs:element name="m_Item2" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TupleOfArrayOfModel_Inventoryintg3pnGo87" nillable="true" type="tns:TupleOfArrayOfModel_Inventoryintg3pnGo87" />
+  <xs:complexType name="TupleOfArrayOfModel_CartBondora_OrderBondora_CustomerLnhgBaS3">
+    <xs:annotation>
+      <xs:appinfo>
+        <GenericType Name="TupleOf{0}{1}{2}{#}" Namespace="http://schemas.datacontract.org/2004/07/System" xmlns="http://schemas.microsoft.com/2003/10/Serialization/">
+          <GenericParameter Name="ArrayOfModel_Cart" Namespace="http://schemas.datacontract.org/2004/07/EFLibrary.Models" />
+          <GenericParameter Name="Bondora_Order" Namespace="http://schemas.datacontract.org/2004/07/EFLibrary.Models" />
+          <GenericParameter Name="Bondora_Customer" Namespace="http://schemas.datacontract.org/2004/07/EFLibrary.Models" />
+        </GenericType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/EFLibrary.Models" name="m_Item1" nillable="true" type="q2:ArrayOfModel_Cart" />
+      <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/EFLibrary.Models" name="m_Item2" nillable="true" type="q3:Bondora_Order" />
+      <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/EFLibrary.Models" name="m_Item3" nillable="true" type="q4:Bondora_Customer" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TupleOfArrayOfModel_CartBondora_OrderBondora_CustomerLnhgBaS3" nillable="true" type="tns:TupleOfArrayOfModel_CartBondora_OrderBondora_CustomerLnhgBaS3" />
+</xs:schema>

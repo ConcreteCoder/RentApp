@@ -1,0 +1,84 @@
+﻿@model IEnumerable<EFLibrary.Models.Model_Inventory>
+
+<script type="text/javascript" src="~/Scripts/Inventory.js"></script>
+
+<div class="container">
+    <h2>@ViewBag.Title</h2>
+    <div class="idea" id="result">@ViewBag.StatusMessage</div>
+    <input type="hidden" id="token" value="@ViewBag.Token" />
+    @if (Model != null)
+    {
+        if (Model.Count() > 0)
+        {
+            <div style="width:100%">
+                <div class="left">
+                    <p>@ViewBag.NumberOfRows</p>
+                    <div id="output"></div>
+                </div>
+                <div class="left">
+                    <img id="preload" src="~/Content/images/loading.gif" width="50" style="display:none;" />
+                </div>
+                <div class="right">
+                    <a  class="">
+                        <table>
+                            <tr>
+                                <td class="cart">
+                                    <img src="~/Content/images/shopping-cart-304843__340.png" border="0" width="35" title="@ViewBag.Cart" />
+                                </td>
+                                <td class="cart">
+                                    <span class="cart_total" id="cart_total">@ViewBag.CountOrdered</span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>@Html.ActionLink("Cart", "Cart", "Cart")</td>
+
+                        </table>
+                    </a>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <br />
+
+
+            <table align="center">
+                <thead>
+                    <tr>
+                        <th>@ViewBag.Name</th>
+                        <th>@ViewBag.Type</th>
+                        <th>@ViewBag.Duration</th>
+                        <th>@ViewBag.AddCart</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr onmouseover="bgColor='#ffffcc'" onmouseout="bgColor='#FFFFFF'">
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Type_name)
+                            </td>
+                            <td>
+                                <input type="text" id="numdays_@item.Inventory_id" placeholder="@ViewBag.Days" />
+                            </td>
+                            <td>
+                                <input type="button" value="@ViewBag.AddCart" onclick="AddToCart('@item.Inventory_id','@ViewBag.WrongInput','@ViewBag.ErrorApiCall')" />
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <br />
+
+        }
+        else
+        {
+            <div class="text-center">@ViewBag.NotFound</div>
+        }
+    }
+    else
+    {
+        <div class="text-center">@ViewBag.NotFound</div>
+    }
+</div>

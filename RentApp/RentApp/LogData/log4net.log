@@ -1,0 +1,165 @@
+2019-05-06 00:04:49,670 INFO MonitoringLogger - Setup filter starts
+2019-05-06 00:06:57,624 INFO MonitoringLogger - Setup filter starts
+2019-05-06 00:07:06,741 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-06 00:07:06,809 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-06 00:11:14,137 INFO MonitoringLogger - Setup filter starts
+2019-05-06 00:11:26,965 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-06 00:11:27,038 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-06 00:11:35,310 INFO MonitoringLogger - Setup filter starts
+2019-05-06 00:11:41,371 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 00:11:41,398 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 00:11:42,701 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 00:11:42,742 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 00:12:48,258 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-06 00:12:49,311 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-06 00:12:55,953 INFO MonitoringLogger - Setup filter starts
+2019-05-06 00:13:08,460 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 00:13:08,507 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 00:13:09,692 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 00:13:09,717 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 00:13:10,959 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 00:13:10,992 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 00:13:13,358 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-06 00:13:13,390 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-06 00:25:16,398 INFO MonitoringLogger - Setup filter starts
+2019-05-06 00:25:35,029 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 00:25:35,675 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 00:25:38,065 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-06 00:25:38,196 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-06 00:42:07,523 INFO MonitoringLogger - Setup filter starts
+2019-05-06 00:42:22,700 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 00:42:23,282 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 00:42:29,067 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 00:42:29,117 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 00:42:30,572 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-06 00:42:30,719 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-06 01:01:34,477 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:01:45,860 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:01:46,134 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:01:54,223 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:01:54,262 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:01:57,848 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-06 01:01:57,891 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-06 01:02:12,004 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:02:21,687 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:02:21,709 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:02:23,355 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-06 01:02:23,370 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-06 01:03:44,467 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:06:10,803 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:08:40,825 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:09:02,507 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:09:02,536 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:11:33,399 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:11:46,500 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:11:46,542 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:12:37,463 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:12:52,133 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:12:52,209 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:13:01,750 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:13:01,788 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:13:06,953 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:13:06,980 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:16:46,620 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:17:09,466 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:18:15,976 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:18:24,926 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:18:25,027 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:18:29,037 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:18:29,073 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:18:47,865 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-06 01:18:47,888 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-06 01:18:55,438 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:18:58,697 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:18:58,716 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:19:02,772 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:19:02,786 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:19:07,378 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:19:07,392 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:19:09,354 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-06 01:19:09,363 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-06 01:20:44,983 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:21:05,110 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:21:05,138 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:21:07,745 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-06 01:21:07,771 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-06 01:22:46,617 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:23:31,663 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:23:38,204 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:23:38,240 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:23:51,329 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:23:51,359 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:23:56,819 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-06 01:23:56,841 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-06 01:24:00,195 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:24:04,541 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:24:04,553 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:25:37,093 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:27:11,444 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:27:26,679 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:28:25,494 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:28:32,317 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:28:32,356 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:28:40,520 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:28:40,541 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:28:46,973 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:28:47,019 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:28:48,451 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-06 01:28:48,490 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-06 01:32:42,313 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-06 01:32:43,023 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-06 01:32:48,090 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:32:54,501 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:32:54,524 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:33:08,775 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:33:12,892 ERROR MonitoringLogger - ApiInventory post request error occurred:- <br/>There was no endpoint listening at http://localhost:50590/InventoryService.svc that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.<br />System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:50590
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.ServiceModel.Channels.HttpOutput.WebRequestHttpOutput.GetOutputStreamAsyncResult.CompleteGetRequestStream(IAsyncResult result)<br />   at System.Runtime.AsyncResult.End[TAsyncResult](IAsyncResult result)
+   at System.ServiceModel.Channels.ServiceChannel.SendAsyncResult.End(SendAsyncResult result)
+   at System.ServiceModel.Channels.ServiceChannel.EndCall(String action, Object[] outs, IAsyncResult result)
+   at System.ServiceModel.Channels.ServiceChannelProxy.TaskCreator.<>c__DisplayClass7_0`1.<CreateGenericTask>b__0(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at RentEquipment2.Controllers.ApiInventoryController.<Post>d__2.MoveNext() in C:\Project\RentApp\RentApp\Controllers\ApiInventoryController.cs:line 39
+2019-05-06 01:33:12,893 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:33:21,309 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:33:23,345 ERROR MonitoringLogger - ApiInventory post request error occurred:- <br/>There was no endpoint listening at http://localhost:50590/InventoryService.svc that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.<br />System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:50590
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.ServiceModel.Channels.HttpOutput.WebRequestHttpOutput.GetOutputStreamAsyncResult.CompleteGetRequestStream(IAsyncResult result)<br />   at System.Runtime.AsyncResult.End[TAsyncResult](IAsyncResult result)
+   at System.ServiceModel.Channels.ServiceChannel.SendAsyncResult.End(SendAsyncResult result)
+   at System.ServiceModel.Channels.ServiceChannel.EndCall(String action, Object[] outs, IAsyncResult result)
+   at System.ServiceModel.Channels.ServiceChannelProxy.TaskCreator.<>c__DisplayClass7_0`1.<CreateGenericTask>b__0(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at RentEquipment2.Controllers.ApiInventoryController.<Post>d__2.MoveNext() in C:\Project\RentApp\RentApp\Controllers\ApiInventoryController.cs:line 39
+2019-05-06 01:33:23,345 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:33:58,009 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:34:08,656 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:34:08,951 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:34:13,250 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:34:13,265 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:34:16,017 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:34:16,030 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:34:19,003 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-06 01:34:19,062 INFO MonitoringLogger - Cart controller Get request ends:-
+2019-05-06 01:35:56,953 INFO MonitoringLogger - Setup filter starts
+2019-05-06 01:36:06,206 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:36:06,264 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:36:12,083 INFO MonitoringLogger - ApiInventory controller post request starts:-
+2019-05-06 01:36:12,106 INFO MonitoringLogger - ApiInventory controller post request ends:-
+2019-05-06 01:36:16,192 INFO MonitoringLogger - Cart controller Get request starts:-
+2019-05-06 01:36:16,212 INFO MonitoringLogger - Cart controller Get request ends:-
