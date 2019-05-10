@@ -3,10 +3,9 @@ RentApplication
 
 Instruction to run the application:-
 
-Online construction equipment rental: -
 Steps to use: -
 
-1)Restore/Create Database: -
+1)Create Database: -
 There is a database script in sql folder of project ‘RentApp’ .
 Kindly execute it. This script will create the database and all the required tables with data.
 This is a kind of seed script.
